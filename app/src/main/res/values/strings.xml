@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="value">+2300$</string>
+    <string name="currency">EUR</string>
+    <string name="state">Sold</string>
+
+</resources>
